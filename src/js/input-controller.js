@@ -413,6 +413,7 @@ function handleAlpha(event) {
       "PrintScreen",
       "Clear",
       "End",
+      "WakeUp"
       undefined,
     ].includes(event.key)
   ) {
